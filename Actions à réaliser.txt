@@ -1,0 +1,3 @@
+N'oubliez pas de naviguer dans le bon dossier dans votre terminal, puis de lancer les commandes:
+npm install
+npm run dev
